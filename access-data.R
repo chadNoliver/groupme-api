@@ -14,7 +14,7 @@ base.url <- "https://api.groupme.com/v3/groups"
 
          #GET API KEY BY LOGGING INTO dev.groupme.com
          #INSERT YOUR API AFTER "api.key <-" AS TEXT STRING
-         #REMOVE DEFAULT BELOW ULESS YOU CHOOSE TO SAVE YOUR KEY AT THAT LOCATION
+         #REMOVE DEFAULT BELOW UNLESS YOU CHOOSE TO SAVE YOUR KEY AT THAT LOCATION
 
 
 api.key <- names(read.delim("~/groupme-api/private/api-key.txt")) #INSERT API KEY HERE AND REMOVE names(read.delim("~/groupme-api/private/api-key.txt"))
