@@ -13,7 +13,7 @@ base.url <- "https://api.groupme.com/v3/groups"
 #STEP 1: INSERT API KEY
 
          #GET API KEY BY LOGGING INTO dev.groupme.com
-         #INSERT YOUR API AFTER "api.key <-" AS TEXT STRING
+         #INSERT YOUR API KEY AFTER "api.key <-" AS TEXT STRING
          #REMOVE DEFAULT BELOW UNLESS YOU CHOOSE TO SAVE YOUR KEY AT THAT LOCATION
 
 
